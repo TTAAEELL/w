@@ -441,7 +441,7 @@ endipresult() {
 }'
 
 	echo "$template" > output.txt
- 	git add report.txt
+ 	git add output.txt
 	git commit -m "Update: $(date)"
 	git push origin main
 
