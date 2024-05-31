@@ -440,7 +440,11 @@ endipresult() {
    }
 }'
 
-	echo "$template"
+	echo "$template" > output.txt
+ 	git add report.txt
+	git commit -m "Update: $(date)"
+	git push origin main
+
 
     rm warpendpoint >/dev/null 2>&1
     rm -rf ip.txt
