@@ -335,7 +335,6 @@ endipresult() {
       "tag": "🇮🇷 WARP - Iran",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8c91:4063:21d0:7dd5:f218/128",
 	"'$publicKey'"
       ],
       "private_key": "'$privateKey'",
@@ -354,7 +353,6 @@ endipresult() {
       "detour": "🇮🇷 WARP - Iran",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8c15:3f90:ad2d:8810:77f3/128",
 	"'$publicKey2'"
       ],
       "private_key": "'$privateKey2'",
