@@ -126,8 +126,8 @@
 	""
       ],
       "private_key": "",
-      "server": "188.114.98.221",
-      "server_port": 854,
+      "server": "162.159.192.198",
+      "server_port": 946,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": ,
       "mtu": 1280,
@@ -141,13 +141,13 @@
       "detour": "🇮🇷 WARP - Iran",
       "local_address": [
         "172.16.0.2/32",
-	"2606:4700:110:8210:90e:228e:ed81:42ed/128"
+	"2606:4700:110:8a79:3353:663a:febc:660c/128"
       ],
-      "private_key": "8KZVD1HbmK+p0C3lLpxk5iAxgUnTHpn/yUnxQuh8aUM=",
-      "server": "188.114.98.221",
-      "server_port": 854,
+      "private_key": "UBqBLRNLWvYl6wdWU2fFpDt/XPM+lXRDbNK3wWq3gkc=",
+      "server": "162.159.192.198",
+      "server_port": 946,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [196,73,218],
+      "reserved": [168,43,118],
       "mtu": 1280,
       "fake_packets": "5-10",
       "fake_packets_size": "40-100",
